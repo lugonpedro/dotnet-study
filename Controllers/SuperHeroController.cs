@@ -9,7 +9,7 @@ namespace dotnet_study.Controllers
     public class SuperHeroController : ControllerBase
     {
         [HttpGet]
-        public async Task<IActionResult> GetAll()
+        public async Task<ActionResult<List<SuperHero>>> GetAll()
         {
             var heroes = new List<SuperHero>
             {
