@@ -1,25 +1,32 @@
 ﻿<Properties StartupConfiguration="{EDB4D2DD-FEAE-4AB8-998B-A03AA2080C0B}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.dotnet-study PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/SuperHeroController.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Entities/SuperHero.cs" />
+      <File FileName="Controllers/SuperHeroController.cs" Line="42" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="dotnet-study" expanded="True">
-            <Node name="dotnet-study" expanded="True">
-              <Node name="Program.cs" selected="True" />
+          <Node name="dotnet-study">
+            <Node name="dotnet-study">
+              <Node name="Controllers">
+                <Node name="SuperHeroController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.dotnet-study PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
